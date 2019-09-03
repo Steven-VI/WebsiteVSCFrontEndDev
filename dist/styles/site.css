@@ -1,0 +1,13 @@
+.padded-multiline {
+  line-height: 2;
+  width: 300px;
+  margin: 20px auto;
+}
+.padded-multiline span {
+  background-color: #c0c;
+  color: #fff;
+  display: inline;
+  padding: 0.45rem;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
